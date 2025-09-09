@@ -22,6 +22,7 @@
   quickshell,
   aubio,
   libcava,
+  fftw,
   pipewire,
   xkeyboard_config,
   cmake,
